@@ -1,0 +1,206 @@
+﻿Build started 09-12-2015 21:33:47.
+     1>Project "F:\Computer Graphics\Final Project\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Mainsrc.cpp
+         Mainsrc.cpp
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(73): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(74): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(75): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(76): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(131): warning C4065: switch statement contains 'default' but no 'case' labels
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(136): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(152): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(153): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(154): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(155): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(156): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(157): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(158): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(159): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(164): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(171): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(174): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(186): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(189): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(194): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(227): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(229): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(240): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(243): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(255): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(263): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(264): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(269): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(270): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(271): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(272): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(276): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(280): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(281): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(282): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(287): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(288): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(289): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(290): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(291): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(297): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(298): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(299): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(300): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(306): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(307): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(308): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(309): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(312): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(313): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(314): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(315): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(318): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(319): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(320): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(321): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(324): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(325): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(326): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(327): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(333): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(334): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(335): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(336): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(340): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(341): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(342): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(362): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(363): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(364): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(365): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(371): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(372): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(373): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(374): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(380): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(381): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(382): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(383): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(389): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(390): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(391): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(392): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(418): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(419): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(420): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(421): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(427): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(430): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(431): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(432): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(433): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(445): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(446): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(447): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(448): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(481): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(482): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(483): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(484): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(519): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(520): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(521): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(522): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(558): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(559): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(560): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(561): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(585): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(586): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(587): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(588): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(631): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(632): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(633): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(634): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(639): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(640): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(645): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(647): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(648): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(653): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(656): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(657): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(665): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(666): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(671): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(678): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(679): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(680): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(686): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(693): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(694): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(695): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(719): warning C4101: 'B' : unreferenced local variable
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(719): warning C4101: 'R' : unreferenced local variable
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(718): warning C4101: 'pick_col' : unreferenced local variable
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(719): warning C4101: 'G' : unreferenced local variable
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(778): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(783): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(798): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(799): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(812): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(813): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(822): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(823): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(830): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(831): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(844): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(845): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(849): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(850): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(856): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(857): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(859): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(860): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(868): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(869): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(871): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(872): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1053): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1057): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1067): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1068): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1161): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1162): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1176): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1177): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1178): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1179): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1186): warning C4244: 'argument' : conversion from 'float' to 'GLint', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1203): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1218): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1219): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1228): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1229): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1237): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1238): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1239): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1242): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1249): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1250): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1265): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1266): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1284): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1288): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1289): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1350): warning C4244: 'argument' : conversion from 'float' to 'GLsizei', possible loss of data
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(122): warning C4715: 'returnmenustring' : not all control paths return a value
+     1>f:\computer graphics\final project\project1\project1\mainsrc.cpp(1109): warning C4715: 'nexttotop' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Computer Graphics\Final Project\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Computer Graphics\Final Project\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Computer Graphics\Final Project\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Mainsrc.obj
+         Project1.vcxproj -> F:\Computer Graphics\Final Project\Project1\Debug\Project1.exe
+     1>Done Building Project "F:\Computer Graphics\Final Project\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.19
